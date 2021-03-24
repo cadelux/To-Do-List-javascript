@@ -1,0 +1,41 @@
+#h1{
+    text-align: center;
+}
+
+#yapılacakcontainer{
+
+    width: 50%;
+    height: 50%;
+    margin-top: 20px;
+    float: left;
+}
+
+#bitenlercontainer{
+
+    width: 50%;
+    height: 50%;
+    margin-top: 20px;
+    float: right;
+
+}
+
+#todo{
+
+    width: 250px;
+    height: 70px;
+    font-family:Advent Pro;
+    font-size: 30px;
+    border-color: green;
+    text-align: center;
+    
+}
+
+#todo:hover{
+    width: 300px;
+    height: 80px;
+    font-family:Advent Pro;
+    font-size: 40px;
+}
+li {
+    display: list-item;
+  }
